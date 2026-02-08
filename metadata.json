@@ -1,0 +1,7 @@
+{
+  "name": "FloraGuide AI",
+  "description": "Your intelligent gardening companion that identifies plants via photo and provides expert care advice through an AI-powered chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
